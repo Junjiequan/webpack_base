@@ -1,0 +1,38 @@
+{
+  "name": "webpack_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/a331998513/webpack_base#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a331998513/webpack_base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a331998513/webpack_base/issues"
+  },
+  "scripts": {
+    "build": "webpack ",
+    "dev": "webpack serve"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.51.0",
+    "sass-loader": "^13.0.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  }
+}
