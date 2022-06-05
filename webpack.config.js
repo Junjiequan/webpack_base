@@ -42,6 +42,7 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
+            //a smart preset that allows you to use the latest JavaScript without needing to micromanage which syntax transforms
             presets: ['@babel/preset-env'],
           },
         },
