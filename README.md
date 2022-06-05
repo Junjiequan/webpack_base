@@ -1,6 +1,6 @@
 # webpack config
 
-## [Webpack Document](https://webpack.js.org/)
+## [Webpack Document](https://webpack.js.org/) / [Config detailed explanation] (https://www.wisdomgeek.com/development/web-development/javascript/using-webpack-dev-server/)
 
 ## Mode
 
