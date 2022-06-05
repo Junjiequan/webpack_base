@@ -2,6 +2,16 @@
 
 ## [Webpack Document](https://webpack.js.org/) / [Config detailed explanation](https://www.wisdomgeek.com/development/web-development/javascript/using-webpack-dev-server/)
 
+## Dev dependency packages for webpack 
+
+### style
+`npm i -D sass sass-loader style-loader css-loader`
+### babel
+`npm i -D babel-loader @babel/core @babel/preset-env`
+### webpack
+`npm i -D webpack webpack-cli webpack-dev-server html-webpack-plugin`
+
+
 ## Mode
 
 Development mode & production mode vice versa
